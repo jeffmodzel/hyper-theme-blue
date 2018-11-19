@@ -1,0 +1,24 @@
+{
+  "name": "hyper-theme-blue",
+  "description": "Hyper terminal blue theme",
+  "version": "0.0.1",
+  "author": "Jeff Modzel <jemod@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/jeffmodzel/hyper-blue/issues"
+  },
+  "homepage": "https://github.com/jeffmodzel/hyper-blue/blob/master/README.md",
+  "keywords": [
+    "hyper",
+    "hyper.js",
+    "hyperterm",
+    "hyperterm-theme",
+    "blue",
+    "theme"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffmodzel/hyper-blue.git"
+  }
+}
