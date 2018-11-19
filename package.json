@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "author": "Jeff Modzel <jemod@yahoo.com>",
   "bugs": {
-    "url": "https://github.com/jeffmodzel/hyper-blue/issues"
+    "url": "https://github.com/jeffmodzel/hyper-theme-blue/issues"
   },
-  "homepage": "https://github.com/jeffmodzel/hyper-blue/blob/master/README.md",
+  "homepage": "https://github.com/jeffmodzel/hyper-theme-blue/blob/master/README.md",
   "keywords": [
     "hyper",
     "hyper.js",
@@ -19,6 +19,6 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffmodzel/hyper-blue.git"
+    "url": "git+https://github.com/jeffmodzel/hyper-theme-blue.git"
   }
 }
