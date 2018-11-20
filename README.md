@@ -12,6 +12,7 @@ plugins: [
 ],
 ```
 ![](images/windows.png)
+![](images/mac.png)
 
 ## Notes
 
