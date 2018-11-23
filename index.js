@@ -4,21 +4,19 @@ exports.decorateConfig = (config) => {
     const CYAN = '#00FFFF';
     const WHITE_BLUE = '#EEFFFF';
 
-    const backgroundColor = DARK_BLUE;
-    const foregroundColor = WHITE_BLUE;
-
     return Object.assign({}, config, {
-      foregroundColor,
-		  backgroundColor,
-      borderColor: ELECTRIC_BLUE,
-      cursorColor: CYAN,
-      css: `
+        backgroundColor: DARK_BLUE,
+        foregroundColor: WHITE_BLUE,
+        borderColor: ELECTRIC_BLUE,
+        cursorColor: CYAN,
+        css: `
             ${config.css || ''}
             .tabs_nav .tabs_list .tab_text {
-                color: #00FFFF;
+                color: #009ce6;
             }
-            .tabs_nav .tabs_title {
-                color: #00FFFF;
+            .tab_textActive {
+              color: #00FFFF !important;
+              font-weight: bold;
             }
             `
   });
